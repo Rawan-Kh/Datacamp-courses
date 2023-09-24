@@ -2,7 +2,7 @@
 import openai
 
 # Set your API key
-openai.api_key = "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"
+openai.api_key = ""
 
 # Create a request to the Completion endpoint
 response = openai.Completion.create(
